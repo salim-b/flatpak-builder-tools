@@ -30,11 +30,11 @@ $ pipx install .
 
 There are two examples provided for how to use flatpak-node-generator:
 
-- `vanilla-quick-start` - A Flatpak of
+- [`vanilla-quick-start`](vanilla-quick-start/) - A Flatpak of
   [electron-quick-start](https://github.com/electron/electron-quick-start). It uses npm for
   package management and a rather basic Electron workflow.
   (Current on the Electron 4 version.)
-- `webpack-quick-start` - A Flatpak of
+- [`webpack-quick-start`](webpack-quick-start/) - A Flatpak of
   [electron-webpack-quick-start](https://github.com/electron-userland/electron-webpack-quick-start).
   It uses yarn for package management and electron-builder + webpack.
 
